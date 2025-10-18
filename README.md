@@ -1,6 +1,6 @@
 # riffr-scaffold
 
-Riffr is a mobile app for musicians, rappers, and producers to connect and collaborate based on shared genres and skills.
+Riffr is a mobile app for musicians, rappers, and producers to connect and collaborate based on shared genres and skill(s).
 
 **Current Files:**
 - README.md
